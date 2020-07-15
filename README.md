@@ -1,4 +1,13 @@
-### Hi there 👋
+![Sirkadirov's Profile Cover Image](https://raw.githubusercontent.com/sirkadirov/sirkadirov/master/sirkadirov-profile-cover.jpg)
+
+## Hi there 👋!
+My name is Yurii Kadirov (better known as Sirkadirov), I am computer science student of Faculty of electronics and computer technologies at Ivan Franko National University of Lviv, somewhat public figure and a free software developer.
+
+- 🔭 I’m currently working on [Overtest](https://github.com/thesirkadirov/overtest)
+- ☕ Buy me a coffee or say your thanks [here](https://www.buymeacoffee.com/sirkadirov)
+- 📫 How to reach me: contact@sirkadirov.com
+- ⚡ Fun fact: I do not tolerate lactose (yeah, really)
+- **❤ Learn more about me and my work on [my official website](https://sirkadirov.com/)**
 
 <!--
 **sirkadirov/sirkadirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
