@@ -9,6 +9,8 @@ My name is Yurii Kadirov (better known as Sirkadirov), I am computer science stu
 - ⚡ Fun fact: I do not tolerate lactose (yeah, really)
 - **❤ Learn more about me and my work on [my official website](https://sirkadirov.com/)**
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sirkadirov)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sirkadirov/sirkadirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
